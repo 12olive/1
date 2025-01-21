@@ -1,6 +1,17 @@
 # Table of contents
 
-* [API](README.md)
-* [整理好的范例](zheng-li-hao-de-fan-li.md)
-* [待整理的范例](dai-zheng-li-de-fan-li.md)
-* [踩过的坑](cai-guo-de-keng.md)
+* [欢迎光临](README.md)
+
+## 开始
+
+* [快速开始](kai-shi/quickstart.md)
+* [发布](kai-shi/publish-your-docs.md)
+
+## 基础知识
+
+* [Editor编辑器](ji-chu-zhi-shi/editor.md)
+* [Markdown](ji-chu-zhi-shi/markdown.md)
+* [图片和多媒体](ji-chu-zhi-shi/images-and-media.md)
+* [Interactive blocks交互式块](ji-chu-zhi-shi/interactive-blocks.md)
+* [OpenAPI](ji-chu-zhi-shi/openapi.md)
+* [Integrations](ji-chu-zhi-shi/integrations.md)
